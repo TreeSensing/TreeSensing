@@ -1,0 +1,7 @@
+{
+    "dataset": {
+        "loader": "loadCAIDA18",
+        "path": "/share/datasets/CAIDA2018/dataset/130000.dat"
+    },
+    "test_result_dir": "../results"
+}
